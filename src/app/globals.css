@@ -3,6 +3,26 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --duolingo-green: #58cc02;
+  --duolingo-bg: #f7f7f7;
+  --duolingo-light-green: #89e219;
+  --duolingo-dark-green: #46a302;
+  --card-bg: #ffffff;
+  --border-color: #e5e7eb;
+  --text-primary: #1f2937;
+  --text-secondary: #6b7280;
+  --text-muted: #9ca3af;
+}
+
+.dark {
+  --background: #0f172a;
+  --foreground: #f8fafc;
+  --duolingo-bg: #1e293b;
+  --card-bg: #334155;
+  --border-color: #475569;
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
 }
 
 @theme inline {
@@ -10,17 +30,50 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-duolingo-green: var(--duolingo-green);
+  --color-duolingo-bg: var(--duolingo-bg);
+  --color-duolingo-light-green: var(--duolingo-light-green);
+  --color-duolingo-dark-green: var(--duolingo-dark-green);
+  --color-card-bg: var(--card-bg);
+  --color-border: var(--border-color);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-muted: var(--text-muted);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 3D Flip Card Styles */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-style-preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Duolingo-style button borders */
+.border-b-3 {
+  border-bottom-width: 3px;
+}
+
+.border-b-1 {
+  border-bottom-width: 1px;
+}
+
+/* Custom utility classes */
+.font-black {
+  font-weight: 900;
 }
