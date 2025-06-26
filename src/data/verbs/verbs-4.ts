@@ -208,7 +208,7 @@ export const verbs4: Word[] = [
     pronunciation: "/ˌdɪsəˈɡriː/",
     examples: [
       { english: "I disagree with him.", portuguese: "Eu discordo dele." },
-      { english: "It's okay to disagree.", portuguesa: "Está tudo bem discordar." }
+      { english: "It's okay to disagree.", portuguese: "Está tudo bem discordar." }
     ]
   },
   { 

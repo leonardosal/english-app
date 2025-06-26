@@ -178,7 +178,7 @@ export const verbs3: Word[] = [
     pronunciation: "/kʊk/",
     examples: [
       { english: "I love to cook.", portuguese: "Eu amo cozinhar." },
-      { english: "Who's cooking dinner?", portuguesa: "Quem está fazendo o jantar?" }
+      { english: "Who's cooking dinner?", portuguese: "Quem está fazendo o jantar?" }
     ]
   },
   { 
