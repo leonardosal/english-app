@@ -367,7 +367,7 @@ export const expressions: Word[] = [
     portuguese: "acalmar-se", 
     pronunciation: "/kɑːm daʊn/",
     examples: [
-      { english: "Please calm down.", portuguesa: "Por favor, acalme-se." },
+      { english: "Please calm down.", portuguese: "Por favor, acalme-se." },
       { english: "I need to calm down before the meeting.", portuguese: "Eu preciso me acalmar antes da reunião." }
     ]
   },
@@ -478,7 +478,7 @@ export const expressions: Word[] = [
     pronunciation: "/brɪŋ əˈbaʊt/",
     examples: [
       { english: "The new law will bring about changes.", portuguese: "A nova lei causará mudanças." },
-      { english: "What brought about this decision?", português: "O que causou esta decisão?" }
+      { english: "What brought about this decision?", portuguese: "O que causou esta decisão?" }
     ]
   },
   { 
@@ -567,8 +567,8 @@ export const expressions: Word[] = [
     portuguese: "jogar fora", 
     pronunciation: "/θroʊ əˈweɪ/",
     examples: [
-      { english: "Please throw away the trash.", português: "Por favor, jogue o lixo fora." },
-      { english: "Don't throw away this opportunity.", português: "Não desperdice esta oportunidade." }
+      { english: "Please throw away the trash.", portuguese: "Por favor, jogue o lixo fora." },
+      { english: "Don't throw away this opportunity.", portuguese: "Não desperdice esta oportunidade." }
     ]
   },
   { 
@@ -588,7 +588,7 @@ export const expressions: Word[] = [
     pronunciation: "/ɡet əˈweɪ/",
     examples: [
       { english: "I need to get away for a while.", portuguese: "Eu preciso escapar por um tempo." },
-      { english: "The thief got away.", português: "O ladrão escapou." }
+      { english: "The thief got away.", portuguese: "O ladrão escapou." }
     ]
   },
   { 
@@ -598,7 +598,7 @@ export const expressions: Word[] = [
     pronunciation: "/teɪk əˈweɪ/",
     examples: [
       { english: "Take away the dirty dishes.", portuguese: "Leve os pratos sujos embora." },
-      { english: "What can we take away from this experience?", português: "O que podemos tirar desta experiência?" }
+      { english: "What can we take away from this experience?", portuguese: "O que podemos tirar desta experiência?" }
     ]
   },
   { 
@@ -608,7 +608,7 @@ export const expressions: Word[] = [
     pronunciation: "/pʊt əˈweɪ/",
     examples: [
       { english: "Put away your toys.", portuguese: "Guarde seus brinquedos." },
-      { english: "I need to put away the groceries.", português: "Eu preciso guardar as compras." }
+      { english: "I need to put away the groceries.", portuguese: "Eu preciso guardar as compras." }
     ]
   },
   { 
@@ -618,7 +618,7 @@ export const expressions: Word[] = [
     pronunciation: "/ɡet bæk/",
     examples: [
       { english: "When did you get back?", portuguese: "Quando você voltou?" },
-      { english: "I'll get back to you later.", português: "Eu retorno para você mais tarde." }
+      { english: "I'll get back to you later.", portuguese: "Eu retorno para você mais tarde." }
     ]
   },
   { 
@@ -628,7 +628,7 @@ export const expressions: Word[] = [
     pronunciation: "/kɔːl bæk/",
     examples: [
       { english: "I'll call you back in five minutes.", portuguese: "Eu te ligo de volta em cinco minutos." },
-      { english: "Please call me back when you're free.", português: "Por favor, me ligue de volta quando estiver livre." }
+      { english: "Please call me back when you're free.", portuguese: "Por favor, me ligue de volta quando estiver livre." }
     ]
   },
   { 
@@ -638,7 +638,7 @@ export const expressions: Word[] = [
     pronunciation: "/peɪ bæk/",
     examples: [
       { english: "I'll pay you back tomorrow.", portuguese: "Eu te pago de volta amanhã." },
-      { english: "He never paid back the money.", português: "Ele nunca devolveu o dinheiro." }
+      { english: "He never paid back the money.", portuguese: "Ele nunca devolveu o dinheiro." }
     ]
   },
   { 
@@ -648,7 +648,7 @@ export const expressions: Word[] = [
     pronunciation: "/teɪk bæk/",
     examples: [
       { english: "I take back what I said.", portuguese: "Eu retiro o que disse." },
-      { english: "Can I take back this shirt?", português: "Posso devolver esta camisa?" }
+      { english: "Can I take back this shirt?", portuguese: "Posso devolver esta camisa?" }
     ]
   },
   { 
@@ -658,7 +658,7 @@ export const expressions: Word[] = [
     pronunciation: "/hoʊld ɑːn/",
     examples: [
       { english: "Hold on, I'll be right back.", portuguese: "Espere, eu já volto." },
-      { english: "Hold on to your dreams.", português: "Mantenha seus sonhos." }
+      { english: "Hold on to your dreams.", portuguese: "Mantenha seus sonhos." }
     ]
   },
   { 
@@ -668,7 +668,7 @@ export const expressions: Word[] = [
     pronunciation: "/ɡoʊ ɑːn/",
     examples: [
       { english: "Please go on with your story.", portuguese: "Por favor, continue com sua história." },
-      { english: "What's going on here?", português: "O que está acontecendo aqui?" }
+      { english: "What's going on here?", portuguese: "O que está acontecendo aqui?" }
     ]
   },
   { 
@@ -678,7 +678,7 @@ export const expressions: Word[] = [
     pronunciation: "/muːv ɑːn/",
     examples: [
       { english: "It's time to move on.", portuguese: "É hora de seguir em frente." },
-      { english: "Let's move on to the next topic.", português: "Vamos passar para o próximo tópico." }
+      { english: "Let's move on to the next topic.", portuguese: "Vamos passar para o próximo tópico." }
     ]
   },
   { 
@@ -688,7 +688,7 @@ export const expressions: Word[] = [
     pronunciation: "/kaʊnt ɑːn/",
     examples: [
       { english: "You can count on me.", portuguese: "Você pode contar comigo." },
-      { english: "I'm counting on your support.", português: "Estou contando com seu apoio." }
+      { english: "I'm counting on your support.", portuguese: "Estou contando com seu apoio." }
     ]
   },
   { 
@@ -698,7 +698,7 @@ export const expressions: Word[] = [
     pronunciation: "/dɪˈpend ɑːn/",
     examples: [
       { english: "It depends on the weather.", portuguese: "Depende do tempo." },
-      { english: "Children depend on their parents.", português: "Crianças dependem de seus pais." }
+      { english: "Children depend on their parents.", portuguese: "Crianças dependem de seus pais." }
     ]
   },
   { 
@@ -708,7 +708,7 @@ export const expressions: Word[] = [
     pronunciation: "/ˈfoʊkəs ɑːn/",
     examples: [
       { english: "Focus on your studies.", portuguese: "Foque nos seus estudos." },
-      { english: "I need to focus on this project.", português: "Eu preciso focar neste projeto." }
+      { english: "I need to focus on this project.", portuguese: "Eu preciso focar neste projeto." }
     ]
   },
   { 
@@ -718,7 +718,7 @@ export const expressions: Word[] = [
     pronunciation: "/wɜːrk ɑːn/",
     examples: [
       { english: "I'm working on a new project.", portuguese: "Estou trabalhando em um novo projeto." },
-      { english: "Let's work on this together.", português: "Vamos trabalhar nisso juntos." }
+      { english: "Let's work on this together.", portuguese: "Vamos trabalhar nisso juntos." }
     ]
   },
   { 
@@ -728,7 +728,7 @@ export const expressions: Word[] = [
     pronunciation: "/ɪnˈsɪst ɑːn/",
     examples: [
       { english: "I insist on paying the bill.", portuguese: "Eu insisto em pagar a conta." },
-      { english: "She insisted on helping me.", português: "Ela insistiu em me ajudar." }
+      { english: "She insisted on helping me.", portuguese: "Ela insistiu em me ajudar." }
     ]
   },
   { 
@@ -738,7 +738,7 @@ export const expressions: Word[] = [
     pronunciation: "/əˈɡriː ɑːn/",
     examples: [
       { english: "We need to agree on a plan.", portuguese: "Precisamos concordar sobre um plano." },
-      { english: "Can we agree on this price?", português: "Podemos concordar sobre este preço?" }
+      { english: "Can we agree on this price?", portuguese: "Podemos concordar sobre este preço?" }
     ]
   },
   { 
@@ -748,7 +748,7 @@ export const expressions: Word[] = [
     pronunciation: "/dɪˈsaɪd ɑːn/",
     examples: [
       { english: "Have you decided on a restaurant?", portuguese: "Você decidiu sobre um restaurante?" },
-      { english: "I can't decide on which car to buy.", português: "Não consigo decidir qual carro comprar." }
+      { english: "I can't decide on which car to buy.", portuguese: "Não consigo decidir qual carro comprar." }
     ]
   },
   { 
@@ -758,7 +758,7 @@ export const expressions: Word[] = [
     pronunciation: "/driːm ʌv/",
     examples: [
       { english: "I dream of traveling the world.", portuguese: "Eu sonho em viajar pelo mundo." },
-      { english: "She dreams of becoming a doctor.", português: "Ela sonha em se tornar médica." }
+      { english: "She dreams of becoming a doctor.", portuguese: "Ela sonha em se tornar médica." }
     ]
   },
   { 
@@ -768,7 +768,7 @@ export const expressions: Word[] = [
     pronunciation: "/θɪŋk ʌv/",
     examples: [
       { english: "What do you think of this idea?", portuguese: "O que você acha desta ideia?" },
-      { english: "I'm thinking of changing jobs.", português: "Estou pensando em mudar de emprego." }
+      { english: "I'm thinking of changing jobs.", portuguese: "Estou pensando em mudar de emprego." }
     ]
   },
   { 
@@ -778,7 +778,7 @@ export const expressions: Word[] = [
     pronunciation: "/rɪˈmaɪnd ʌv/",
     examples: [
       { english: "This song reminds me of my childhood.", portuguese: "Esta música me lembra da minha infância." },
-      { english: "You remind me of my sister.", português: "Você me lembra da minha irmã." }
+      { english: "You remind me of my sister.", portuguese: "Você me lembra da minha irmã." }
     ]
   },
   { 
@@ -788,7 +788,7 @@ export const expressions: Word[] = [
     pronunciation: "/teɪk ədˈvæntɪdʒ ʌv/",
     examples: [
       { english: "Take advantage of this opportunity.", portuguese: "Aproveite esta oportunidade." },
-      { english: "Don't let people take advantage of you.", português: "Não deixe as pessoas se aproveitarem de você." }
+      { english: "Don't let people take advantage of you.", portuguese: "Não deixe as pessoas se aproveitarem de você." }
     ]
   },
   { 
@@ -798,7 +798,7 @@ export const expressions: Word[] = [
     pronunciation: "/meɪk fʌn ʌv/",
     examples: [
       { english: "Don't make fun of other people.", portuguese: "Não zombe de outras pessoas." },
-      { english: "They made fun of his accent.", português: "Eles zombaram do sotaque dele." }
+      { english: "They made fun of his accent.", portuguese: "Eles zombaram do sotaque dele." }
     ]
   },
   { 
@@ -808,7 +808,7 @@ export const expressions: Word[] = [
     pronunciation: "/ɡet ˈtaɪərd ʌv/",
     examples: [
       { english: "I'm getting tired of this routine.", portuguese: "Estou me cansando desta rotina." },
-      { english: "She got tired of waiting.", português: "Ela se cansou de esperar." }
+      { english: "She got tired of waiting.", portuguese: "Ela se cansou de esperar." }
     ]
   },
   { 
@@ -818,7 +818,7 @@ export const expressions: Word[] = [
     pronunciation: "/biː əˈfreɪd ʌv/",
     examples: [
       { english: "I'm afraid of spiders.", portuguese: "Eu tenho medo de aranhas." },
-      { english: "Don't be afraid of making mistakes.", português: "Não tenha medo de cometer erros." }
+      { english: "Don't be afraid of making mistakes.", portuguese: "Não tenha medo de cometer erros." }
     ]
   },
   { 
@@ -828,7 +828,7 @@ export const expressions: Word[] = [
     pronunciation: "/biː praʊd ʌv/",
     examples: [
       { english: "I'm proud of your achievements.", portuguese: "Estou orgulhoso das suas conquistas." },
-      { english: "She's proud of her children.", português: "Ela se orgulha dos filhos." }
+      { english: "She's proud of her children.", portuguese: "Ela se orgulha dos filhos." }
     ]
   },
   { 
@@ -838,7 +838,7 @@ export const expressions: Word[] = [
     pronunciation: "/biː ɪkˈsaɪtəd əˈbaʊt/",
     examples: [
       { english: "I'm excited about the trip.", portuguese: "Estou animado com a viagem." },
-      { english: "Are you excited about the new job?", português: "Você está animado com o novo emprego?" }
+      { english: "Are you excited about the new job?", portuguese: "Você está animado com o novo emprego?" }
     ]
   },
   { 
@@ -848,7 +848,7 @@ export const expressions: Word[] = [
     pronunciation: "/biː ˈwʌrid əˈbaʊt/",
     examples: [
       { english: "I'm worried about the exam.", portuguese: "Estou preocupado com o exame." },
-      { english: "She's worried about her health.", português: "Ela está preocupada com a saúde." }
+      { english: "She's worried about her health.", portuguese: "Ela está preocupada com a saúde." }
     ]
   },
   { 
@@ -858,7 +858,7 @@ export const expressions: Word[] = [
     pronunciation: "/biː ˈɪntrəstəd ɪn/",
     examples: [
       { english: "I'm interested in learning Spanish.", portuguese: "Estou interessado em aprender espanhol." },
-      { english: "Are you interested in this job?", português: "Você está interessado neste emprego?" }
+      { english: "Are you interested in this job?", portuguese: "Você está interessado neste emprego?" }
     ]
   },
   { 
@@ -868,7 +868,7 @@ export const expressions: Word[] = [
     pronunciation: "/biː ɡʊd æt/",
     examples: [
       { english: "She's good at mathematics.", portuguese: "Ela é boa em matemática." },
-      { english: "I'm not good at cooking.", português: "Eu não sou bom em cozinhar." }
+      { english: "I'm not good at cooking.", portuguese: "Eu não sou bom em cozinhar." }
     ]
   },
   { 
@@ -878,7 +878,7 @@ export const expressions: Word[] = [
     pronunciation: "/biː bæd æt/",
     examples: [
       { english: "I'm bad at remembering names.", portuguese: "Eu sou ruim em lembrar nomes." },
-      { english: "He's bad at telling jokes.", português: "Ele é ruim em contar piadas." }
+      { english: "He's bad at telling jokes.", portuguese: "Ele é ruim em contar piadas." }
     ]
   },
   { 
@@ -888,7 +888,7 @@ export const expressions: Word[] = [
     pronunciation: "/biː juːzd tuː/",
     examples: [
       { english: "I'm used to working late.", portuguese: "Estou acostumado a trabalhar até tarde." },
-      { english: "She's not used to the cold weather.", português: "Ela não está acostumada ao tempo frio." }
+      { english: "She's not used to the cold weather.", portuguese: "Ela não está acostumada ao tempo frio." }
     ]
   },
   { 
@@ -898,7 +898,7 @@ export const expressions: Word[] = [
     pronunciation: "/ɡet juːzd tuː/",
     examples: [
       { english: "I need to get used to the new schedule.", portuguese: "Eu preciso me acostumar com o novo horário." },
-      { english: "It took time to get used to the city.", português: "Levou tempo para se acostumar à cidade." }
+      { english: "It took time to get used to the city.", portuguese: "Levou tempo para se acostumar à cidade." }
     ]
   },
   { 
@@ -908,7 +908,7 @@ export const expressions: Word[] = [
     pronunciation: "/lʊk ˈfɔːrwərd tuː/",
     examples: [
       { english: "I look forward to hearing from you.", portuguese: "Aguardo com expectativa uma resposta sua." },
-      { english: "We look forward to the weekend.", português: "Aguardamos com expectativa o fim de semana." }
+      { english: "We look forward to the weekend.", portuguese: "Aguardamos com expectativa o fim de semana." }
     ]
   },
   { 
@@ -918,7 +918,7 @@ export const expressions: Word[] = [
     pronunciation: "/biː fed ʌp wɪθ/",
     examples: [
       { english: "I'm fed up with this situation.", portuguese: "Estou farto desta situação." },
-      { english: "She's fed up with his excuses.", português: "Ela está farta das desculpas dele." }
+      { english: "She's fed up with his excuses.", portuguese: "Ela está farta das desculpas dele." }
     ]
   },
   { 
@@ -928,7 +928,7 @@ export const expressions: Word[] = [
     pronunciation: "/pʊt ʌp wɪθ/",
     examples: [
       { english: "I can't put up with this noise.", portuguese: "Eu não aguento este barulho." },
-      { english: "How do you put up with him?", português: "Como você aguenta ele?" }
+      { english: "How do you put up with him?", portuguese: "Como você aguenta ele?" }
     ]
   },
   { 
@@ -938,7 +938,7 @@ export const expressions: Word[] = [
     pronunciation: "/kʌm ʌp wɪθ/",
     examples: [
       { english: "Can you come up with a better idea?", portuguese: "Você pode inventar uma ideia melhor?" },
-      { english: "She always comes up with excuses.", português: "Ela sempre inventa desculpas." }
+      { english: "She always comes up with excuses.", portuguese: "Ela sempre inventa desculpas." }
     ]
   },
   { 
@@ -948,7 +948,7 @@ export const expressions: Word[] = [
     pronunciation: "/kiːp ʌp wɪθ/",
     examples: [
       { english: "I can't keep up with the latest technology.", portuguese: "Eu não consigo acompanhar a tecnologia mais recente." },
-      { english: "Try to keep up with the class.", português: "Tente acompanhar a turma." }
+      { english: "Try to keep up with the class.", portuguese: "Tente acompanhar a turma." }
     ]
   },
   { 
@@ -958,7 +958,7 @@ export const expressions: Word[] = [
     pronunciation: "/kætʃ ʌp wɪθ/",
     examples: [
       { english: "I need to catch up with my friends.", portuguese: "Eu preciso me encontrar com meus amigos." },
-      { english: "Run faster to catch up with them.", português: "Corra mais rápido para alcançá-los." }
+      { english: "Run faster to catch up with them.", portuguese: "Corra mais rápido para alcançá-los." }
     ]
   },
   { 
@@ -968,7 +968,7 @@ export const expressions: Word[] = [
     pronunciation: "/ɡet əˈlɔːŋ wɪθ/",
     examples: [
       { english: "I get along well with my coworkers.", portuguese: "Eu me dou bem com meus colegas de trabalho." },
-      { english: "Do you get along with your roommate?", português: "Você se dá bem com seu colega de quarto?" }
+      { english: "Do you get along with your roommate?", portuguese: "Você se dá bem com seu colega de quarto?" }
     ]
   },
   { 
@@ -978,7 +978,7 @@ export const expressions: Word[] = [
     pronunciation: "/fɔːl ɪn lʌv wɪθ/",
     examples: [
       { english: "I fell in love with her at first sight.", portuguese: "Eu me apaixonei por ela à primeira vista." },
-      { english: "He fell in love with the city.", português: "Ele se apaixonou pela cidade." }
+      { english: "He fell in love with the city.", portuguese: "Ele se apaixonou pela cidade." }
     ]
   },
   { 
@@ -988,7 +988,7 @@ export const expressions: Word[] = [
     pronunciation: "/breɪk ʌp wɪθ/",
     examples: [
       { english: "She broke up with her boyfriend.", portuguese: "Ela terminou com o namorado." },
-      { english: "Why did you break up with him?", português: "Por que você terminou com ele?" }
+      { english: "Why did you break up with him?", portuguese: "Por que você terminou com ele?" }
     ]
   },
   { 
@@ -998,7 +998,7 @@ export const expressions: Word[] = [
     pronunciation: "/meɪk ʌp wɪθ/",
     examples: [
       { english: "I want to make up with my friend.", portuguese: "Eu quero fazer as pazes com meu amigo." },
-      { english: "They made up with each other.", português: "Eles fizeram as pazes um com o outro." }
+      { english: "They made up with each other.", portuguese: "Eles fizeram as pazes um com o outro." }
     ]
   }
 ];
